@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-gggghhhppooaaa
-=======
-gggghhhkkdev
->>>>>>> dev
+tttt
